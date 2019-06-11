@@ -1,0 +1,2 @@
+### フォークのリポジトリです。
+this is forkPractice
